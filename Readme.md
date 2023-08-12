@@ -5,7 +5,7 @@ Tools: Yii2 Framework
 Language : PHP
 
 
-## Table of COntents
+## Table of Contents
 
 - [Overview](#Overview)
 - [Getting Started with Yii2 Migrations](#gettingstarted)
